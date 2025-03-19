@@ -11,6 +11,7 @@ package mx.itson.music.enums;
 public enum Género {
     POP,
     ROCK,
+    METAL,
     DANCE,
     BANDA,
     SALSA,
